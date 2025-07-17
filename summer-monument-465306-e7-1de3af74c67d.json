@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "summer-monument-465306-e7",
+  "private_key_id": "1de3af74c67d75d24bdf3dbe7c0e8e96bdb627b6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7drfjU6HPJCrV\niQX0pdR1W9S17+/c9VAIfCVh5eO5t64YvwJSzMMg6kyvpSFz7iswVkFkN6O6HdJM\n5AszGPfFgvcn6RHmJoIjNi6JpZbTo+2OVam0Xq0NLw7mJChGNpSHCkXyY0ooOAhY\ne25XjyRXnZzEul4P9M5OnqQHBlNQWcxOiKSdZPlWF5unTWv67N+IRZWGVd8o6dmP\n9siuJgWErO9L+rSbg+QL0gj/qnwDfFRlLizYvWPsWrEdoluoZHIwUko6GYDQ5enI\njq3jT8Yil2mI/cMERmjBNZvuO3KjXlAHF3mCgANGOC8BS/DxadqT+Byrr1/Nu4MU\n29ZrSnHXAgMBAAECggEAEhmtOVoGtRaZENjJRkJ0EvLPb9O0ysEK6GQoQzLBvARZ\nXyf45ErDX8cPqXlIaMZVzYspMYZ9HLLVbo7UQADzUihKOe8d8dAaX6ZTHv+UjRHL\nwE2oHvNx7Q8eoVJbayVzo4hL5v1MQzmJy2qmOvZmEWmf9zocFplSCYhKw9I0stIW\nbJT91NNa8OOhBHey9wKcQg+fk8+kk72NcbsysymBY/784eV7vpFIibCOMkY/IYxa\nnTPez3tIoIIWc+EOdJ3ArgDpCT1OlqXLc3Y2dejg4Gjgrt75l87H8oeXD03sLKP1\nyECR6GIfDszhVxkNA+mAAdPPANrKVRB0tT9gCWdrSQKBgQDptx+YpTRJxkZcVUFH\nXpZy/T2ph2Jl+V00SwXWXap8R0JtjzpquKMpnY7jyNvPAhEN/HWYKk+KOSOZewOf\njwa2BTW0UCHlr+JQ7c84b9dVBzR8Cux/OALpPZzapcE05mQxphE5WW7ouDJ3S12V\nZetK4VH0E9DEPw65EGV1fRqT7wKBgQDNVp3OHNX/y/dVeRzTwd1JjhcWWy6ol3Sz\nl8GI4LNX4GYReeAwekpt44HdIoHjFWKAwhGy0FBoSiDZiU0FG9iFZNNU0hPTCo8Q\n2AmVm9hz97v3z+yUS1W7x/yCdXxYgsnx+ftT5e9yUiZR0plEVM970825jfyCvJFN\nNyFjj/B4mQKBgQDY5bbv/dmR4e2ogQKNDo5HdxgDvf4mrw69miZ3tAOlRKi0bqkD\nJAlgdLWIVf8QlVVoinRD3HhmyfJs3MoXCTBsOleF2JwswlchTiHyuXC4m3As8iJb\nSosBFMn97LhqtKolnX38oDAaz98d8RaPsL91hbh98OndRrwOKdZO++RvhwKBgQC/\nAqfhJ+nZ/b6if/tU8K4M0mSfo0qQAfPJbI3X6k5qnI/WCe2Gqvu5pT0UnBj/SNFM\nvTsBf86MdQiB07sV2YVc8SG1cYaHdvcG0DB6P3LmzbjJGV4VxM6H080M/oUhQOji\nc4xbyzUmv0xuKN3yNoKbybdBuNcANrFjhrlEiI1FYQKBgEdUfR4IrNU55KKimuN6\nGb2hL2SmRdmbobARZlcJ1PcQ5xg/QI3nKzF3mjs270rIazUl1JPNfiOqiL3aS3t5\nUkV52K/VZWlXpK8ZNpXL/oDoYTOsZrZKF3JcHw5aGgkEuoqjpFStsUhHvqja84O/\n00T5RWVB5xKqWgc4rOX87xez\n-----END PRIVATE KEY-----\n",
+  "client_email": "n-47-134@summer-monument-465306-e7.iam.gserviceaccount.com",
+  "client_id": "117566880346562921866",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/n-47-134%40summer-monument-465306-e7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
