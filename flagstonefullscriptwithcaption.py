@@ -1,18 +1,23 @@
-from googleapiclient.discovery import build
-from google.oauth2 import service_account
+
 import os
+import json
+from google.oauth2 import service_account
+from googleapiclient.discovery import build
 
 # Set up the Drive API
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
-SERVICE_ACCOUNT_FILE = 'summer-monument-465306-e7-1de3af74c67d.json'
 
-creds = service_account.Credentials.from_service_account_file(
-    SERVICE_ACCOUNT_FILE, scopes=SCOPES)
+# Load credentials from Render environment variable
+SERVICE_ACCOUNT_INFO = json.loads(os.environ["GOOGLE_APPLICATION_CREDENTIALS_JSON"])
+
+creds = service_account.Credentials.from_service_account_info(
+    SERVICE_ACCOUNT_INFO, scopes=SCOPES
+)
 
 service = build('drive', 'v3', credentials=creds)
 
-# Replace with your folder ID
-folder_id = '1aw0OYYvgUgVx2XJjQPRrN0X8x5TsPG0c'
+# Your folder ID
+folder_id = '1aw0OYVygUgVxZXJjQPRrNX08XsTsPG0c'
 
 # Get list of image files
 results = service.files().list(
