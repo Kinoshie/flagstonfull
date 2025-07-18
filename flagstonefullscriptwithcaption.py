@@ -17,7 +17,7 @@ creds = service_account.Credentials.from_service_account_info(
 service = build('drive', 'v3', credentials=creds)
 
 # Your folder ID
-folder_id = '1aw0OYVygUgVxZXJjQPRrNX08XsTsPG0c'
+folder_id = '1w_Pjc4PZikkGgsF-aDn_aFZPrllXsUJj'
 
 # Get list of image files
 results = service.files().list(
